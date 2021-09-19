@@ -1,0 +1,6 @@
+Nome	Tripleto hex	RGB
+Água-marinha média	#66CDAA	102
+Azul celeste	#00A4CD	40
+Alizarina	#E32636	227
+Amarelo	#FFFF00	255
+preto
